@@ -1,0 +1,56 @@
+
+
+body{
+    margin: 0%;
+    border: 0%;
+    background-color:#f0ebcc;
+}
+h1{
+    text-align: left;
+    font-size: 4rem;
+}
+h3{
+    font-size: 2rem;
+    margin: 0.5rem 0rem 0.5rem 0;
+    color: #3f3697;
+}
+h4{
+    font-size: 1.2rem;
+    margin: 0.5rem 0rem 0.5rem 0;
+    color: #b8b63d;
+}
+
+.heading-main{
+    color: #a34c8d;
+}
+
+.main-form h3{
+    font-size: 1.5rem;
+    margin: 2rem 0rem 1rem 0;
+}
+.checkbox{
+    padding:1rem 0rem 1rem 0;
+    font-size: 1.2rem;
+}
+.terms-cond{
+    padding:0.5rem;
+    
+}
+.text-f{
+    padding: 0.5rem;
+}
+
+.register{
+    font-size: 1rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    background-color: #407af7;
+    border:none;
+    border-radius: 25px;
+}
+
+.body-wrapper{
+    padding: 3%;
+    background-color:rgb(51, 144, 153);
+    margin: 3% 25% 3% 25%;
+    border-radius: 25px;
+}
